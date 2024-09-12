@@ -1,0 +1,61 @@
+customer_name,customer_id,product_name,quantity,purchase_date,original price,sale_price,rating,sentiment,discount_code,payment_method,delivery_address,state,country,coupon_code,total_amount,profit_margin,purchase_channel,loyalty_points_earned,customer_segment,purchase_time
+Stafani,1150,"Tart Shells - Savory, 3",3,6/12/2021,1,69.52,4,positive,DEAL30,Net Banking,9 Eastwood Drive,Andhra Pradesh,India,SAVE30,127.54,0.13,Mobile App,20,Normal,46
+Caria,2660,Veal - Osso Bucco,9,1/28/2021,38,47.74,2,neutral,DEAL30,Credit Card,12 Lotheville Parkway,Uttar Pradesh,India,OFFER25,174.82,0.08,In-Store,61,Gold,33
+Koral,1787,Beer - Maudite,2,9/19/2021,10,24.52,1,negative,DEAL30,Net Banking,2 Manitowish Way,Gujarat,India,SAVE30,203.81,0.15,Online,83,Gold,43
+Jaime,2224,Turnip - Wax,9,10/8/2021,53,89.63,5,neutral,SAVE20,Credit Card,9 Trailsway Way,Uttar Pradesh,India,SALE15,57.34,0.14,Mobile App,30,Normal,2
+Alfred,1051,Icecream - Dstk Super Cone,5,6/3/2021,30,27.26,4,neutral,SAVE20,Debit Card,1852 Mendota Alley,Uttar Pradesh,India,OFFER25,387.25,0.11,In-Store,27,Normal,51
+Iolanthe,1627,Tea - Honey Green Tea,4,3/27/2021,55,15.34,0,negative,DISC10,Net Banking,98313 Graceland Lane,Andhra Pradesh,India,SALE15,347.11,0.17,Mobile App,48,Normal,26
+Ferdy,3736,Bar - Granola Trail Mix Fruit Nut,6,1/2/2021,37,65.28,3,negative,SAVE20,Net Banking,3532 Di Loreto Way,Gujarat,India,SAVE30,388.4,0.14,In-Store,5,Normal,29
+Rene,2434,"Cheese - Mozzarella, Buffalo",2,12/17/2021,45,40.11,1,negative,SAVE20,Net Banking,857 Anhalt Avenue,Gujarat,India,SAVE30,154.9,0.06,In-Store,16,Normal,32
+Hubie,2541,Pastry - Plain Baked Croissant,3,3/6/2021,52,54.97,0,neutral,DEAL30,Net Banking,10626 Longview Court,Uttar Pradesh,India,SALE15,376.63,0.08,In-Store,53,Gold,6
+Janet,1697,Cheese - Mascarpone,10,1/27/2021,23,43.51,4,negative,DISC10,Debit Card,5318 Pond Parkway,Gujarat,India,SALE15,126.89,0.16,Online,11,Gold,5
+Melosa,1787,Cafe Royale,8,5/22/2021,16,29.94,0,negative,DEAL30,Net Banking,114 Delladonna Pass,Gujarat,India,OFFER25,407.6,0.16,Online,50,Normal,20
+Siouxie,3933,Lid Coffee Cup 8oz Blk,8,7/11/2021,29,49.1,5,neutral,SAVE20,Debit Card,5 Arkansas Crossing,Andhra Pradesh,India,OFFER25,452.28,0.18,Online,99,Gold,41
+Krystle,1282,Foam Espresso Cup Plain White,3,3/17/2021,8,88.92,0,negative,SAVE20,Credit Card,318 Hayes Trail,Uttar Pradesh,India,SALE15,414.68,0.11,Online,24,Gold,32
+Becca,2243,Bread - Assorted Rolls,1,9/18/2021,47,68.44,3,positive,SAVE20,Debit Card,70 Holmberg Drive,Uttar Pradesh,India,OFFER25,414.73,0.18,Mobile App,79,Normal,42
+Remington,1510,Grenadine,7,1/29/2021,19,53.87,1,positive,DISC10,Debit Card,5557 Tony Alley,Andhra Pradesh,India,OFFER25,499.71,0.11,Mobile App,64,Normal,58
+Lorne,3777,"Flour - Corn, Fine",1,10/3/2021,25,19.51,5,neutral,DISC10,Debit Card,78727 Buena Vista Junction,Andhra Pradesh,India,SAVE30,425.11,0.13,In-Store,11,Gold,35
+Shoshana,4725,"Chocolate - Pistoles, Lactee, Milk",6,11/9/2021,18,49.22,3,positive,DEAL30,Net Banking,856 Crownhardt Alley,Gujarat,India,SALE15,291.31,0.07,Mobile App,38,Normal,17
+Pace,1373,Cookies - Englishbay Wht,5,3/1/2021,1,43.94,4,neutral,SAVE20,Net Banking,187 Hayes Way,Uttar Pradesh,India,SALE15,466.06,0.15,Mobile App,34,Gold,8
+Wallace,4838,"Glass - Wine, Plastic, Clear 5 Oz",6,1/9/2021,45,44.55,3,negative,DEAL30,Credit Card,3 Vahlen Point,Gujarat,India,OFFER25,441.21,0.05,In-Store,62,Gold,8
+Cheston,3959,Beer - Muskoka Cream Ale,9,10/16/2021,49,74.05,4,positive,SAVE20,Net Banking,08 Butterfield Parkway,Andhra Pradesh,India,OFFER25,398.73,0.12,In-Store,8,Normal,6
+Ly,4791,Cloves - Whole,2,2/5/2021,15,61.75,3,neutral,DEAL30,Net Banking,61961 Cherokee Way,Gujarat,India,SAVE30,433.06,0.2,Online,63,Normal,21
+Rickie,3948,Kiwano,8,3/11/2021,33,24.86,5,negative,DEAL30,Credit Card,8 Nancy Drive,Uttar Pradesh,India,SAVE30,363.96,0.12,Mobile App,86,Gold,4
+Wendell,2432,"Cheese - Mozzarella, Shredded",5,9/1/2021,58,78.12,5,neutral,DEAL30,Net Banking,00 Toban Parkway,Gujarat,India,OFFER25,257.24,0.12,Mobile App,76,Gold,38
+Robby,3126,Soup - Campbells Chili,10,10/8/2021,8,80.47,0,negative,SAVE20,Debit Card,09529 Old Shore Point,Uttar Pradesh,India,SAVE30,232.57,0.16,In-Store,66,Gold,29
+Hayyim,3643,Spice - Paprika,3,9/25/2021,50,90.26,2,positive,SAVE20,Net Banking,205 Gale Avenue,Andhra Pradesh,India,SAVE30,274.82,0.13,In-Store,55,Gold,59
+Mavra,2485,"Syrup - Monin, Swiss Choclate",10,1/2/2021,58,12.59,1,positive,SAVE20,Credit Card,58 Swallow Parkway,Gujarat,India,SALE15,436.89,0.1,Mobile App,50,Gold,5
+Etty,4389,Vanilla Beans,3,2/24/2021,52,78.17,2,neutral,SAVE20,Credit Card,4471 Westridge Court,Andhra Pradesh,India,SALE15,261.84,0.1,Mobile App,78,Normal,8
+Jeffry,1076,"Bread - Roll, Italian",9,6/3/2021,1,21.49,0,negative,DISC10,Debit Card,71455 American Parkway,Uttar Pradesh,India,SALE15,123.04,0.12,Online,21,Gold,15
+Vasily,1805,Pan Grease,9,5/13/2021,15,50.41,5,negative,DEAL30,Credit Card,20603 Pond Trail,Uttar Pradesh,India,OFFER25,177.03,0.17,Mobile App,15,Gold,28
+Helena,3374,Crab - Imitation Flakes,3,2/22/2021,39,53.52,5,positive,SAVE20,Debit Card,52730 Marcy Junction,Gujarat,India,SAVE30,166.68,0.18,Online,52,Normal,43
+Monica,3436,Canadian Emmenthal,5,2/26/2021,34,79.22,2,negative,DISC10,Debit Card,15067 Stoughton Point,Andhra Pradesh,India,SAVE30,335.95,0.14,Mobile App,87,Normal,59
+Norene,4053,Towels - Paper / Kraft,9,2/4/2021,45,54.5,1,positive,DEAL30,Credit Card,1 Mendota Court,Uttar Pradesh,India,OFFER25,328.62,0.06,Mobile App,79,Normal,57
+Stewart,4790,Pork - Bacon Cooked Slcd,6,3/18/2021,9,65.27,2,positive,DEAL30,Credit Card,0 Ramsey Alley,Andhra Pradesh,India,SALE15,436.69,0.11,In-Store,1,Gold,46
+Micheal,2776,"Corn - Cream, Canned",1,2/4/2021,23,70.25,5,positive,DEAL30,Credit Card,70 Vernon Road,Gujarat,India,OFFER25,256.53,0.15,Online,9,Normal,21
+Alice,1047,Bread Bowl Plain,1,6/6/2021,22,92.57,1,positive,SAVE20,Debit Card,7 Badeau Avenue,Andhra Pradesh,India,SALE15,108.97,0.15,Online,55,Gold,58
+Timmie,4680,Gherkin - Sour,10,11/8/2021,54,52.69,4,positive,DEAL30,Net Banking,8 Acker Center,Andhra Pradesh,India,OFFER25,236.43,0.18,Online,10,Gold,1
+Cletis,2431,Sauce - Thousand Island,4,10/7/2021,34,77.96,2,negative,DISC10,Credit Card,82 Maryland Terrace,Uttar Pradesh,India,SAVE30,455.92,0.16,Mobile App,93,Normal,45
+Elayne,4216,Beer - Creemore,7,10/31/2021,35,13.74,0,positive,SAVE20,Debit Card,1 Hintze Street,Gujarat,India,OFFER25,302.46,0.05,In-Store,52,Gold,1
+Renato,2241,Orange - Blood,10,4/18/2021,5,45.4,2,neutral,DISC10,Credit Card,545 Bobwhite Drive,Gujarat,India,OFFER25,393.95,0.14,Mobile App,73,Normal,4
+Yuma,4081,Sobe - Tropical Energy,10,10/31/2021,47,73.02,4,positive,DISC10,Credit Card,05 Kensington Pass,Andhra Pradesh,India,SALE15,178.08,0.05,Mobile App,1,Normal,8
+Lock,1010,Longos - Chicken Cordon Bleu,6,3/6/2021,59,87.06,3,positive,DEAL30,Net Banking,894 Hermina Drive,Andhra Pradesh,India,SALE15,164.64,0.09,Mobile App,74,Normal,29
+Herbie,1784,Kiwi,9,12/21/2021,8,14.85,1,negative,SAVE20,Net Banking,0502 Southridge Drive,Uttar Pradesh,India,SALE15,90.2,0.18,Online,92,Normal,39
+Valeria,4481,"Apple - Delicious, Golden",6,2/25/2021,18,67,4,negative,SAVE20,Credit Card,154 2nd Crossing,Uttar Pradesh,India,SAVE30,361.32,0.2,In-Store,18,Gold,9
+Cherin,1097,"Chocolate - Milk, Callets",3,3/1/2021,51,86.38,2,negative,DISC10,Net Banking,7826 Mesta Park,Andhra Pradesh,India,SAVE30,456.17,0.18,Online,98,Gold,21
+Alika,2496,Propel Sport Drink,10,11/11/2021,40,92.16,1,neutral,DISC10,Credit Card,20 Clyde Gallagher Pass,Gujarat,India,SAVE30,169.07,0.08,Online,74,Normal,36
+Kaitlyn,1627,"Pesto - Primerba, Paste",3,4/13/2021,33,24.52,1,positive,DEAL30,Debit Card,86 Melrose Pass,Andhra Pradesh,India,OFFER25,276.37,0.17,Mobile App,11,Gold,51
+Alene,1722,Cheese Cloth No 100,4,11/27/2021,31,48.82,0,negative,SAVE20,Net Banking,2278 Arizona Place,Andhra Pradesh,India,SAVE30,183.9,0.11,Online,30,Normal,25
+Kristi,4734,Milk 2% 500 Ml,1,6/28/2021,19,34.52,0,positive,DISC10,Credit Card,4231 Kropf Avenue,Andhra Pradesh,India,SAVE30,345.95,0.1,In-Store,12,Normal,9
+Richart,3943,"Soup - Knorr, Country Bean",7,10/7/2021,41,56.95,5,positive,SAVE20,Net Banking,0288 Knutson Park,Uttar Pradesh,India,SALE15,286.69,0.08,Online,81,Gold,13
+Wenonah,1698,Cocoa Powder - Natural,5,10/20/2021,5,87.04,2,negative,DEAL30,Debit Card,3119 Farwell Park,Gujarat,India,SAVE30,294.02,0.07,Online,22,Gold,18
+Egon,1199,"Nut - Almond, Blanched, Ground",10,12/17/2021,51,88.39,4,positive,DEAL30,Debit Card,0 Summit Lane,Gujarat,India,SAVE30,194.23,0.17,Online,17,Gold,36
+Kimmi,3870,Pie Pecan,4,11/9/2021,14,53,1,neutral,DEAL30,Credit Card,34 Kim Way,Gujarat,India,OFFER25,335.23,0.14,Mobile App,50,Normal,54
+Jdavie,3213,Cranberries - Frozen,6,2/9/2021,31,96.44,3,neutral,DEAL30,Credit Card,11089 Express Drive,Andhra Pradesh,India,OFFER25,397.91,0.1,Online,2,Gold,28
+Dennet,4116,Oregano - Fresh,1,9/22/2021,54,56.22,3,neutral,DEAL30,Net Banking,99673 Dennis Way,Gujarat,India,SALE15,105.19,0.08,In-Store,64,Normal,37
+Rosaline,3010,"Syrup - Monin, Swiss Choclate",4,5/11/2021,56,68.93,1,negative,SAVE20,Debit Card,7267 Paget Junction,Gujarat,India,OFFER25,91.44,0.15,Mobile App,36,Gold,29
+Trula,3951,Wine - Jaboulet Cotes Du Rhone,8,2/4/2021,53,59.79,3,positive,SAVE20,Credit Card,40151 Summer Ridge Circle,Gujarat,India,OFFER25,426.78,0.19,In-Store,81,Gold,32
+Claudetta,4996,"Chicken - Diced, Cooked",2,3/20/2021,59,60.85,4,negative,DEAL30,Net Banking,92265 Stang Parkway,Uttar Pradesh,India,SAVE30,445.56,0.11,In-Store,62,Normal,28
+Alberta,1338,Isomalt,6,2/13/2021,36,61.23,5,negative,DEAL30,Net Banking,0498 Corscot Pass,Uttar Pradesh,India,OFFER25,338.42,0.11,Online,98,Normal,14
+Lurline,3271,Muffin Batt - Blueberry Passion,7,10/22/2021,16,85.47,2,negative,DISC10,Debit Card,4963 Almo Court,Gujarat,India,SAVE30,379.7,0.15,In-Store,45,Gold,38
+Sauncho,3495,Pear - Asian,3,5/5/2021,15,47.81,5,negative,DISC10,Credit Card,050 Northridge Trail,Andhra Pradesh,India,SAVE30,405.15,0.05,In-Store,0,Gold,22
